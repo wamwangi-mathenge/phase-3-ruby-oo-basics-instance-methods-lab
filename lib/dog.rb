@@ -10,14 +10,10 @@ class Dog
     end
 end
 
-fido = Dog.new
-fido.bark
+# fido = Dog.new
+# fido.bark
+# fido.sit
 
-fido = Dog.new
-fido.sit
-
-snoopy = Dog.new
-snoopy.bark
-
-snoopy = Dog.new
-snoopy.sit
+# snoopy = Dog.new
+# snoopy.bark
+# snoopy.sit

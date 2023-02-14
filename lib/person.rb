@@ -10,14 +10,10 @@ class Person
     end
 end
 
-brian = Person.new
-brian.talk
+# brian = Person.new
+# brian.talk
+# brian.walk
 
-brian = Person.new
-brian.walk
-
-marxine = Person.new
-marxine.talk
-
-marxine = Person.new
-marxine.walk
+# marxine = Person.new
+# marxine.talk
+# marxine.walk
